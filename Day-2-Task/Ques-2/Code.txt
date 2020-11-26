@@ -1,0 +1,11 @@
+Ques 2:-Find vowels of the string given using dart.
+Dart code:-
+void main(){
+  String r ="This is flutter";
+  print("Vowels in the string i.e '${r}' are:-");
+  for(var i=0;i<r.length;i++){
+    if(r[i]=="a" || r[i]=="e" || r[i]=="i" || r[i]=="o" || r[i]=="u")
+      print(r[i]);
+  }
+  
+}
