@@ -1,0 +1,10 @@
+Ques 1:-Reverse a string using dart
+Dart code:-
+void main(){
+  String r="This is flutter";
+  String f="";
+  for(int i=r.length-1,j=0;i>=0;i--,j++){
+    f=f+r[i];
+  }
+  print("Reverse string of '${r}' is '${f}'");
+}
