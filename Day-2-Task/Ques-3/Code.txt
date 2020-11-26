@@ -1,0 +1,26 @@
+Ques 3:-Segregate even,odd,prime numbers in different list using dart.
+
+Dart Code:-
+void main(){
+var odd=new List();
+var even=new List();
+var prime=new List();
+
+for(int i=1;i<20;i++){
+  int j;
+  if(i%2==0){
+    even.add(i);
+  }
+  else
+    odd.add(i);
+  for(j=2;j<i;j++){
+    if(i%j==0)
+      break;
+  }
+  if(j==i)
+    prime.add(i);
+}
+  print(odd);
+  print(even);
+  print(prime);
+}
