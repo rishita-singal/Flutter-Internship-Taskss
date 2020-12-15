@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520255016288",
+    "project_id": "layout-da9e5",
+    "storage_bucket": "layout-da9e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520255016288:android:94cd56a20d142cd97ae205",
+        "android_client_info": {
+          "package_name": "com.rishita.layout_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520255016288-8niafestlddsvhggm25jbajngkum0ber.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuW-vzXjqr5xP0LJanB0_iL0QM8G9RUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520255016288-8niafestlddsvhggm25jbajngkum0ber.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
